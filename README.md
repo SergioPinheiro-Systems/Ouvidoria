@@ -1,5 +1,5 @@
 📣 Ouvidoria
-    \ Sistema desenvolvido durante o curso de Sistema de Informação da Unifacisa.
+    Sistema desenvolvido durante o curso de Sistema de Informação da Unifacisa.
 
 💰 Professor Orientador
     Esse projeto foi desenvolvido com orientação e ajuda do professor:
