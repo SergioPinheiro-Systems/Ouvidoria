@@ -1,7 +1,9 @@
 📣 Ouvidoria
+    
     Sistema desenvolvido durante o curso de Sistema de Informação da Unifacisa.
 
 💰 Professor Orientador
+        
     Esse projeto foi desenvolvido com orientação e ajuda do professor:
     Daniel Abella C. Mendonça de Souza
 
@@ -31,10 +33,12 @@
       Download : https://git-scm.com/downloads
 
 💻 Projeto
+    
     O Projeto de Ouvidoria é um sistema para que os usuários possam colaborar com sugestões/reclamações a serem alimentados em um banco de dados. 
     Assim, a Ouvidoria terá informações de onde focar os maiores problemas em sua instituição.
 
 🏗 Melhorias que estão em Desenvolvimento
+    
     Cadastro de Usuarios;
     Solicitar um Login;
     Gerar Relatorios;
